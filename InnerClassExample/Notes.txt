@@ -1,0 +1,3 @@
+Inner class:
+             Inner class are defined the body of another class(known as outer class). These classes can have access modifer or
+              even can be marked as abstract and final. Inner classes have special relationship with outer 
